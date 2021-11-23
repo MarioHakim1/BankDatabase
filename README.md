@@ -1,1 +1,3 @@
-# BankDatabase
+This project was very challenging and I really learned a lot of new information while working on this project, I challenged myself not to ask anyone for help and simply try and figure out how to fix all the error and problems I face by myself by surfing on the web and watching many videos explaining how to fix certain errors, while also copy pasting an error on Google to see how to fix it. I unfortunately faced many unsolved errors on visual studio and I stated that in the comments in the coding part.
+Thank you very much for giving me such an exam, it was a really good experience to have a better idea on how databases are usually made and challenge myself to try and do it, Regardless if I did well or not and If I will procede in the recruitment process or not.
+                                                                                                                                          Mario.
